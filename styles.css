@@ -1,0 +1,35 @@
+/*Base*/
+.button {
+  color: #faf4ea;
+  background-color: #819b57;
+  border-radius: 8px;
+  cursor: pointer;
+}
+/*button*/
+button:hover {
+  background-color: transparent;
+}
+/*link*/
+.link {
+  color: #faf4ea;
+}
+
+.link:hover {
+  color: #819b57;
+}
+/*hero-title*/
+.hero-title {
+  color: #faf4ea;
+}
+
+.hero-title .accent {
+  color: #819b57;
+}
+/*advantages-list*/
+.advantages-list {
+  color: #faf4ea;
+  background: #819b57;
+}
+.section-title {
+  color: #31261a;
+}
